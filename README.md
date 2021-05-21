@@ -3,9 +3,9 @@ displaying news of different country using news api
 
 # Installation
 Download the zipfile of the application and extract it.
-Open the terminal and move to the folder where the extraction takes place
+Open the terminal in folder location and 
 
-run the command 
+run the following command
 
 1. npm install
 
